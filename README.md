@@ -1,10 +1,10 @@
 # Binary-Classification-ML
+In this assignment, we are going to build a function that will take in a Pandas data frame containing data for a binary classification problem. Our function will try out and tune many different models on the input data frame it receives and at the end it is going to return the model it thinks is best, as well as an expectation of its performance on new and unseen data in the future. To achieve this mighty task we are going to build several helper functions that our main function is going to have access to.
 
 ## Setup
 
 ```
-# Let's start off with all the basic imports
-# Make sure you run this cell!
+#Libraries
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -14,11 +14,6 @@ import sklearn.ensemble
 import sklearn.metrics
 
 ```
-
-## Main Objective
-
-In this assignment, we are going to build a function that will take in a Pandas data frame containing data for a binary classification problem. Our function will try out and tune many different models on the input data frame it receives and at the end it is going to return the model it thinks is best, as well as an expectation of its performance on new and unseen data in the future. To achieve this mighty task we are going to build several helper functions that our main function is going to have access to.
-
 ### Extract Function
 
 ```
