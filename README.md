@@ -1,3 +1,6 @@
+![alt text](https://github.com/ggeop/Binary-Classification-ML/blob/master/imgs/TextClassificationExample.png)
+Image from:https://developers.google.com/machine-learning/guides/text-classification/
+
 # Binary-Classification-ML
 In this project, we are going to build a function that will take in a Pandas data frame containing data for a binary classification problem. Our function will try out and tune many different models on the input data frame it receives and at the end it is going to return the model it thinks is best, as well as an expectation of its performance on new and unseen data in the future. To achieve this mighty task we are going to build several helper functions that our main function is going to have access to.
 
