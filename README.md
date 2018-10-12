@@ -1,4 +1,4 @@
-![alt text](https://github.com/ggeop/Binary-Classification-ML/blob/master/imgs/TextClassificationExample.png)
+![alt text](https://github.com/ggeop/Binary-Classification-ML/blob/master/img/TextClassificationExample.png)
 Image from:https://developers.google.com/machine-learning/guides/text-classification/
 
 # Binary-Classification-ML
